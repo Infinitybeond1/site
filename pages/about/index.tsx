@@ -5,7 +5,9 @@ import Image from 'next/image'
 const Home: NextPage = () => {
   return (
     <div>
-      
+      <p>
+          Distro info here
+      </p>
     </div>
   )
 }
